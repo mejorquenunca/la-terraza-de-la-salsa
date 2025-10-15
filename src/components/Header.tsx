@@ -19,7 +19,7 @@ const Header = () => {
     { name: 'Clases', href: '/clases' },
     { name: 'Alumnos', href: '/alumnos' },
     { name: 'Contacto', href: '/contacto' },
-    { name: 'Ritmo Latino', href: 'https://ritmo-latino-yoh8.vercel.app/signup', external: true },
+    { name: 'Ritmo Latino', href: 'https://ritmo-latino-yoh8.vercel.app/', external: true },
   ];
 
   return (
